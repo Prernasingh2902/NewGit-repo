@@ -2,6 +2,7 @@ package com.lti.model;
 
 public class Product {
 int proid;
+int price;
 String proname;
 public int getProid() {
 	return proid;
